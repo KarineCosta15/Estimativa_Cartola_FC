@@ -1,0 +1,3 @@
+Abrir o terminal CMD dentro da pasta onde tá o arquivo em py e rodar o comando abaixo:
+
+streamlit run cartola_lista_completa.py
